@@ -1,11 +1,5 @@
 {
   "name": "@defaude/hello-jsr",
   "version": "1.0.2",
-  "exports": "./src/index.ts",
-  "publish": {
-    "include": [
-      "README.md",
-      "src/**/*.ts"
-    ]
-  }
+  "exports": "./src/index.ts"
 }
